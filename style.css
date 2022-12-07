@@ -327,11 +327,33 @@
             flex: 1 1 300px;
             margin: 20px 10px;
          }
+         .footer-mapa li {
+            margin: 0px;
+            display: flex;
+         }
+         .footer-mapa a {
+            color: #0b0c0f;
+            margin-top: 10px;
+            flex: 1;          
+
+         }
 
          .footer-redes {
             flex: 1 1 300px;
             margin: 20px 10px;
+          
          }
+         .footer-redes ul {
+            margin: 0px;
+            display: flex;
+         }
+         .footer-redes li {
+            color: #0b0c0f;
+            margin-top: 10px;
+            flex: 1 ;          
+
+         }
+
 
          .footer-localizacao {
             flex: 1;
