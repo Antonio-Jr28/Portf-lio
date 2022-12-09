@@ -89,26 +89,28 @@
         }
         .introdução-info h1 {
             font-size: 2em;
-            margin-bottom: .5em;
+            margin-top: 30px;
+            margin-bottom: 30px;
          }
           
          .introdução-info p {
-            font-size: 1em;
-            line-height: 1.4;
-            margin-bottom: 1em;
+            font-size: 0.8em;
+            line-height: 1.2;
+            margin-bottom: 7px;
             color: #7c7c7c;
             
          }
          /*Sobre*/
           
          .sobre {
-            border-top: 1px solid #2c70ff;
-            border-bottom: 1px solid #2c70ff;
+            border-top: 3px solid #2c70ff;
+            border-bottom: 3px solid #2c70ff;
             max-width: 960px;
-            margin: 15px auto;
-            padding: 60px 0;
+            margin: 10px auto;
+            padding: 30px 0;
             display: flex;
             flex-wrap: wrap;
+            
            
           
          }
@@ -120,7 +122,7 @@
           
          .sobre-info h1 {
             font-size: 3em;
-            margin-bottom: .5em;
+            margin-bottom: 10px;
          }
           
          .sobre-info p {
@@ -174,18 +176,21 @@
          /*Pagina EMpresas*/
 
          .empresas {
-            border-top: 1px solid #2c70ff;
-            border-bottom: 1px solid #2c70ff;
+            border-top: 3px solid #2c70ff;
+            border-bottom: 3px solid #2c70ff;
             max-width: 960px;
             margin: 15px auto;
-            padding: 45px 0px;
+            padding: 10px 0px;
             display: flex;
             flex-direction: column;
+          
          }
-         .empresas  h1 {
+         .empresas  h1  {
             margin-top: 20px;
             margin-bottom: 30px;
             text-align: center;
+            font-size: 3em;
+            text-decoration: underline;
          } 
          .empresas p {
             margin-bottom: 20px;
