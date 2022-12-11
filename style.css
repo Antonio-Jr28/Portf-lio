@@ -215,3 +215,13 @@
             margin-left: 20px;
             margin
          }
+
+          /*Pagina formacoess*/
+
+         .formacoes {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 15px 0;
+            display: flex;
+            
+         }
