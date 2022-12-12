@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+
           /*Reset*/
  
           body, h1, h2, p, ul, li, a {
@@ -31,47 +32,8 @@
           
               
          /*Menu*/
-          
-         .menu-bg {
-            background: #0b0c0f;
-         }
-          
-         .menu {
-            max-width: 960px;
-            margin:0 auto;
-            padding: 15px 0;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-            align-items: center;
-         }
-          
-         .menu a {
-            color: white;
-            border-radius: 20px;
-         }
-          
-         .menu-logo a {
-            font-size: 2.25em;
-            font-weight: bold;
-            margin: 0 10px;
-          
-         }
-          
-         .menu-nav ul {
-            display: flex;
-            flex-wrap: wrap;
-          }
-          
-         .menu-nav a {
-            font-size: 1.25;
-            display: block;
-            padding: 10px;
-         }
-          
-         .menu-nav a:hover{
-            background: #122ab2;
-         }
+         
+        
          /*Introdução*/
           
          .introdução {
@@ -232,3 +194,5 @@
          .certificados {
             margin-bottom: 10px;
          }
+
+       
