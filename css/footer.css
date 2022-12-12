@@ -1,0 +1,52 @@
+.footer {
+    background-color: #0b0c0f;
+    margin: 0px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+ }
+ .mapa {
+    text-align: center;
+    margin-left: 180px;
+    color: white;
+    margin-bottom: 30px;
+ }
+ .mapa-nav {
+    text-align: start;
+    color: white;
+    display: flex;
+    flex-direction: column;
+ }
+ .mapa-nav a {
+   color: white;
+   margin: 5px;
+ }
+
+ .mapa-nav a:hover{
+    color: #122ab2;
+ }
+ 
+ .redes {
+    text-align: center;
+    color: white;
+ }
+
+
+ .redes-links {
+    color: #f3efef;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+ }
+ .local {
+    margin-right: 180px;
+    color: white;
+    text-align: center;
+ }
+
+ .local p {
+    color: #f3efef;
+   text-align: center;
+   margin-top: 10px;
+ }

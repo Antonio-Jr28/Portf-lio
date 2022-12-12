@@ -1,0 +1,15 @@
+.formacoes {
+    text-align: center;
+    text-decoration: underline;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 15px 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    
+ }
+
+ .certificados {
+    margin-bottom: 10px;
+ }

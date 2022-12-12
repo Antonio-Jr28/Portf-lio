@@ -36,32 +36,7 @@
         
          /*Introdução*/
           
-         .introdução {
-            font-size: 2em;
-            line-height: 1;
-            max-width: 960px;
-            margin: auto;
-            padding: 10px;
-            flex-wrap: wrap;
-         }
-        .introdução-info{
-         flex: 2 1 300px;
-         margin: 0 10px;
-
-        }
-        .introdução-info h1 {
-            font-size: 2em;
-            margin-top: 30px;
-            margin-bottom: 30px;
-         }
-          
-         .introdução-info p {
-            font-size: 0.8em;
-            line-height: 1.2;
-            margin-bottom: 7px;
-            color: #7c7c7c;
-            
-         }
+         
          /*Sobre*/
           
          .sobre {
@@ -98,101 +73,13 @@
         
         /*footer*/
           
-         .footer {
-            background-color: #0b0c0f;
-            margin: 0px auto;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-
-         }
-         .mapa {
-            text-align: center;
-            margin-left: 180px;
-            color: white;
-            margin-bottom: 30px;
-         }
-         .mapa-nav {
-            text-align: start;
-            color: white;
-            display: flex;
-            flex-direction: column;
-         }
-         .mapa-nav a {
-           color: white;
-           margin: 5px;
-         }
-
-         .mapa-nav a:hover{
-            color: #122ab2;
-         }
-         
-         .redes {
-            text-align: center;
-            color: white;
-         }
-
-
-         .redes-links {
-            color: #f3efef;
-            display: flex;
-            justify-content: space-between;
-            margin-top: 10px;
-         }
-         .local {
-            margin-right: 180px;
-            color: white;
-            text-align: center;
-         }
-
-         .local p {
-            color: #f3efef;
-           text-align: center;
-           margin-top: 10px;
-         }
+        
          
          /*Pagina EMpresas*/
 
-         .empresas {
-            background-color: #f3efef;
-            border-top: 3px solid #2c70ff;
-            border-bottom: 3px solid #2c70ff;
-            max-width: 960px;
-            margin: 15px auto;;
-            padding: 10px 0px;
-            display: flex;
-            flex-direction: column;
-            
-         }
-         .empresas  h1  {
-            margin-top: 20px;
-            margin-bottom: 20px;;
-            text-align: center;
-            font-size: 3em;
-            text-decoration: underline;
-         } 
-         .empresas p {
-            margin-bottom: 20px;
-            margin-top: 20px;
-            margin-left: 20px;
-         }
+        
 
           /*Pagina formacoess*/
 
-         .formacoes {
-            text-align: center;
-            text-decoration: underline;
-            max-width: 960px;
-            margin: 0 auto;
-            padding: 15px 0;
-            display: flex;
-            flex-wrap: wrap;
-            flex-direction: column;
-            
-         }
-
-         .certificados {
-            margin-bottom: 10px;
-         }
-
+         
        

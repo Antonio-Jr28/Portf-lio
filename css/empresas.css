@@ -1,0 +1,23 @@
+.empresas {
+    background-color: #f3efef;
+    border-top: 3px solid #2c70ff;
+    border-bottom: 3px solid #2c70ff;
+    max-width: 960px;
+    margin: 15px auto;;
+    padding: 10px 0px;
+    display: flex;
+    flex-direction: column;
+    
+ }
+ .empresas  h1  {
+    margin-top: 20px;
+    margin-bottom: 20px;;
+    text-align: center;
+    font-size: 3em;
+    text-decoration: underline;
+ } 
+ .empresas p {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+ }
