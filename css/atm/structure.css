@@ -14,12 +14,16 @@
     text-decoration: none;
  }
 .Structure {
-    border-top: 3px solid #2c70ff;
-    border-bottom: 3px solid #2c70ff;
+    border-top: 3px solid brown;
+    border-bottom: 3px solid brown;
     max-width: 960px;
     margin: 15px auto;;
     padding: 10px 0px;
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;    
+    flex-direction: column;
+}
+
+.StructureOne {
+    
 }
