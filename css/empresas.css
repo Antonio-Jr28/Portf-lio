@@ -9,15 +9,5 @@
     flex-direction: column;
     
  }
- .empresas  h1  {
-    margin-top: 20px;
-    margin-bottom: 20px;;
-    text-align: center;
-    font-size: 3em;
-    text-decoration: underline;
- } 
- .empresas p {
-    margin-bottom: 20px;
-    margin-top: 20px;
-    margin-left: 20px;
- }
+ 
+
