@@ -24,6 +24,17 @@
     flex-direction: column;
 }
 
-.StructureOne {
-    
+ul {
+    font-size: 1.0em;
+    margin-bottom: 15px;
+}
+
+.Structure li {
+    margin: 10px;
+}
+.Structure a {
+    color: black;
+}
+.Structure a:hover {
+    color: brown;
 }
