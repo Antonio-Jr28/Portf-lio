@@ -1,4 +1,4 @@
-.footer {
+.Footer {
     background-color: #0b0c0f;
     margin: 0px auto;
     display: flex;
@@ -6,47 +6,46 @@
     justify-content:space-around;
 
  }
- .mapa {
+ .Map {
     text-align: center;
-   
     color: white;
     margin-bottom: 30px;
  }
- .mapa-nav {
+ .MapNav {
     text-align: start;
     color: white;
     display: flex;
     flex-direction: column;
  }
- .mapa-nav a {
+ .MapNav a {
    color: white;
    margin: 5px;
  }
 
- .mapa-nav a:hover{
+ .MapNav a:hover{
     color: #122ab2;
  }
  
- .redes {
+ .Nets {
     text-align: center;
     color: white;
  }
 
 
- .redes-links {
+ .NetsLinks {
     color: #f3efef;
     display: flex;
     justify-content: space-between;
     margin-top: 10px;
  }
- .local {
+ .Place {
     
     color: white;
     text-align: center;
  }
 
- .local p {
-    color: #f3efef;
+ .Place p {
+   color: #f3efef;
    text-align: center;
    margin-top: 10px;
  }

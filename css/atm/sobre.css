@@ -1,4 +1,4 @@
-.sobre {
+.Content {
     border-top: 3px solid #2c70ff;
     border-bottom: 3px solid #2c70ff;
     max-width: 960px;
@@ -8,7 +8,7 @@
     flex-wrap: wrap;
  }
   
- .sobre-info {
+ .ContentInf {
     flex: 1;
     margin: 0 10px;
  }

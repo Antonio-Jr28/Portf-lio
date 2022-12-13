@@ -1,10 +1,10 @@
 
 
-.menu-bg {
+.MenuBg {
     background: #0b0c0f;
  }
   
- .menu {
+ .Menu {
     max-width: 960px;
     margin:0 auto;
     padding: 15px 0;
@@ -14,29 +14,29 @@
     align-items: center;
  }
   
- .menu a {
+ .Menu a {
     color: white;
     border-radius: 20px;
  }
   
- .menu-logo a {
+ .MenuSoon a {
     font-size: 2.25em;
     font-weight: bold;
     margin: 0 10px;
   
  }
   
- .menu-nav ul {
+ .MenuNav ul {
     display: flex;
     flex-wrap: wrap;
   }
   
- .menu-nav a {
+ .MenuNav a {
     font-size: 1.25;
     display: block;
     padding: 10px;
  }
   
- .menu-nav a:hover{
+ .MenuNav a:hover{
     background: #122ab2;
  }

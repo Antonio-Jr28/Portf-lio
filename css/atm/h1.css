@@ -1,0 +1,13 @@
+* h1, h2, p {
+  margin: 0px;
+  padding: 0px;
+}
+
+
+.MainTitle {
+   font-size: 2em;
+   margin-top: 30px;
+   margin-bottom: 30px;
+   text-decoration: underline;
+   color: brown;
+ } 
